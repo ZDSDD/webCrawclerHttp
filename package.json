@@ -1,0 +1,26 @@
+{
+  "name": "webcrawclerhttp",
+  "version": "1.0.0",
+  "description": "course about html cravler",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZDSDD/webCrawclerHttp.git"
+  },
+  "author": "Sebastian Sadowy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZDSDD/webCrawclerHttp/issues"
+  },
+  "homepage": "https://github.com/ZDSDD/webCrawclerHttp#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jsdom": "^23.0.1"
+  }
+}
